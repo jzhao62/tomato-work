@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://xiejiahe.gitee.io/tomato-work/precache-manifest.922fa001a72965814f7cda40f5f7c6f3.js"
+  "https://xiejiahe.gitee.io/tomato-work/precache-manifest.efe78d71e08e8ddd6d8c3eb3c8ba7548.js"
 );
 
 self.addEventListener('message', (event) => {
