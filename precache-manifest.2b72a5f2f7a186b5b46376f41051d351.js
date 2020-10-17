@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa22c33ede13b75acce04de40011a77a",
+    "revision": "054b5b785e36ac6cba125f46c5f65dfd",
     "url": "https://xiejiahe.gitee.io/tomato-work/index.html"
   },
   {
