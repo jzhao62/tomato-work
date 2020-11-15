@@ -11,6 +11,11 @@ __tests__
 *.json
 /e2e
 /assets
-serviceWorker.ts
 .github
 .vscode
+
+
+# React Built-in
+src/setupTests.ts
+src/reportWebVitals.ts
+serviceWorker.ts
