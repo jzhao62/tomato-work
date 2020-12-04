@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://xiejiahe.gitee.io/tomato-work/static/css/main.ed7ba211.chunk.css",
-    "main.js": "https://xiejiahe.gitee.io/tomato-work/static/js/main.7d077cf8.chunk.js",
-    "main.js.map": "https://xiejiahe.gitee.io/tomato-work/static/js/main.7d077cf8.chunk.js.map",
+    "main.js": "https://xiejiahe.gitee.io/tomato-work/static/js/main.381dbd39.chunk.js",
+    "main.js.map": "https://xiejiahe.gitee.io/tomato-work/static/js/main.381dbd39.chunk.js.map",
     "runtime-main.js": "https://xiejiahe.gitee.io/tomato-work/static/js/runtime-main.58639aff.js",
     "runtime-main.js.map": "https://xiejiahe.gitee.io/tomato-work/static/js/runtime-main.58639aff.js.map",
     "static/css/2.a23ede36.chunk.css": "https://xiejiahe.gitee.io/tomato-work/static/css/2.a23ede36.chunk.css",
@@ -20,7 +20,7 @@
     "static/js/6.7e49215c.chunk.js": "https://xiejiahe.gitee.io/tomato-work/static/js/6.7e49215c.chunk.js",
     "static/js/6.7e49215c.chunk.js.map": "https://xiejiahe.gitee.io/tomato-work/static/js/6.7e49215c.chunk.js.map",
     "index.html": "https://xiejiahe.gitee.io/tomato-work/index.html",
-    "precache-manifest.4e33a963ded952b66800a99a7b35f552.js": "https://xiejiahe.gitee.io/tomato-work/precache-manifest.4e33a963ded952b66800a99a7b35f552.js",
+    "precache-manifest.e63f18dd62e36e339df42334ed9364f7.js": "https://xiejiahe.gitee.io/tomato-work/precache-manifest.e63f18dd62e36e339df42334ed9364f7.js",
     "service-worker.js": "https://xiejiahe.gitee.io/tomato-work/service-worker.js",
     "static/css/2.a23ede36.chunk.css.map": "https://xiejiahe.gitee.io/tomato-work/static/css/2.a23ede36.chunk.css.map",
     "static/css/3.b154a55a.chunk.css.map": "https://xiejiahe.gitee.io/tomato-work/static/css/3.b154a55a.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/css/2.a23ede36.chunk.css",
     "static/js/2.1301a055.chunk.js",
     "static/css/main.ed7ba211.chunk.css",
-    "static/js/main.7d077cf8.chunk.js"
+    "static/js/main.381dbd39.chunk.js"
   ]
 }
